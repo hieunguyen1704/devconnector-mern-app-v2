@@ -37,5 +37,5 @@ This is a project I have implemented based on the course: MERN Stack Front To Ba
 ```
 ### See result in:
 
-[http://localhost:5000/](%20http://localhost:5000/)
+[http://localhost:3000/](%20http://localhost:5000/)
 
