@@ -17,7 +17,10 @@ This is a project I have implemented based on the course: MERN Stack Front To Ba
     "githubToken": "<yoursecrectaccesstoken>"
     }
 ```
-
+### How to get mongoURL:
+[Reference here](https://dev.to/lenmorld/rest-api-with-mongodb-atlas-cloud-node-and-express-in-10-minutes-2ii1)
+### How to get githubToken:
+[Reference here](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)
 ### Install server dependencies:
 ```sh
     $ npm install
